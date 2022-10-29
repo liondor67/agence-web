@@ -5,8 +5,11 @@
 ## Titre niveau2
 
 ----------------------- barre de separation epaisse
+
 **Mettre du gras**(undersore)
+
 _Metrre en italique_
+
 Je tape du texte et je voudrais revenir à la ligne(double espace)
 
 Faire une liste à puce (\* espace)
@@ -40,4 +43,3 @@ Une imbrication de puce
 
   Mettre une image, un logo
   ![logo TFDigital](https://logo-tfdigital.jpg)
-
