@@ -11,7 +11,8 @@
 
 _Metrre en italique_
 
-Je tape du texte et je voudrais revenir à la ligne(double espace)
+Je tape du texte et  
+je voudrais revenir à la ligne(double espace)
 
 Faire une liste à puce (\* espace)
 
